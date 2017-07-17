@@ -1,7 +1,7 @@
 # Travel Leisure Website
 
 
-## Run Porject
+## Run Project
 
 Open the index.html to see the Website
 
